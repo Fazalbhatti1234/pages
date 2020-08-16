@@ -719,11 +719,12 @@ section.lazy-placeholder:after {
 }
 .cid-s7RIPOJGNU {
   background: #ffffff;
+  padding-top: 90px;
+  padding-bottom: 120px;
   background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-s7RIPOJGNU .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-s7RIPOJGNU .video-block {
